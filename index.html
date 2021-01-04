@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+        integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles/main.css">
+    <title>Explore</title>
+</head>
+
+<body>
+    <div class="main-grid">
+
+        <div class="sidebar"></div>
+
+        <div class="main-container">
+            <h1 class="header-slide">
+                <span class="main-header active">
+                    Explore
+                </span>
+            </h1>
+            <div class="detail-container">
+                <button onclick="toggleCard()" class="detail-btn"></button>
+                <p>More Details</p>
+            </div>
+        </div>
+
+        <div class="detail-card">
+            <button onclick="toggleCard()" class="close-btn">
+                <i class="fas fa-times"></i>
+            </button>
+            <h3 class="detail-header">
+                Explore
+            </h3>
+            <p class="detail-copy">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet
+                consectetur adipiscing elit ut. Nulla posuere sollicitudin aliquam ultrices
+                sagittis orci a scelerisque. Dignissim convallis aenean et tortor at risus.
+                Mi tempus imperdiet nulla malesuada. Tempus imperdiet nulla malesuada pellentesque.
+                Pharetra magna ac placerat vestibulum lectus mauris. Sem fringilla ut morbi
+                tincidunt augue interdum velit euismod in. Eget gravida cum sociis natoque penatibus
+                et magnis dis parturient. Tincidunt arcu non sodales neque sodales ut etiam sit amet.
+                Lectus urna duis convallis convallis tellus id interdum. At volutpat diam ut venenatis
+                tellus in metus.
+            </p>
+            <button class="read-more-btn">
+                read more
+            </button>
+        </div>
+
+        <footer>
+            <div class="social-container">
+                <a href="https://www.facebook.com/" target="_blank" class="social-link">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="https://www.instagram.com/" target="_blank" class="social-link">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </div>
+        </footer>
+    </div>
+
+    <script src="./scripts/index.js"></script>
+
+</body>
+
+</html>
