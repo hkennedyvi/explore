@@ -321,6 +321,7 @@ button:hover {
     .sidebar {
         background: $bgPrimary;
         height: 45vh;
+        min-height: 230px;
         grid-column: 1 / -1;
     }
 
