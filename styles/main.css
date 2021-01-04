@@ -297,7 +297,7 @@ button:hover {
 }
 
 .close-btn:focus,
-.more-info-btn:focus {
+.read-more-btn:focus {
   -webkit-box-shadow: 0 0 0 2px rgba(97, 24, 24, 0.4);
           box-shadow: 0 0 0 2px rgba(97, 24, 24, 0.4);
 }
