@@ -1,6 +1,6 @@
 # Udundi Coding Challenge
 
-Responsive Landing Page with
+Responsive Landing Page with:
 * Animations 
 * Media Queries 
 * Grid Layout
@@ -15,9 +15,9 @@ Responsive Landing Page with
 
 ### Mobile
 
-<img src="./assets/readme_assets/explore_mobile.png" width="800"  alt="mobile explore" />
+<img src="./assets/readme_assets/explore_mobile.png" width="400"  alt="mobile explore" />
 
-<img src="./assets/readme_assets/card_mobile.png" width="800"  alt="mobile card" />
+<img src="./assets/readme_assets/card_mobile.png" width="400"  alt="mobile card" />
 
 ## Author
 
