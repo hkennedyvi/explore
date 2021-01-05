@@ -1,6 +1,7 @@
 # Udundi Coding Challenge
 
 Responsive Landing Page with:
+* SCSS
 * Animations 
 * Media Queries 
 * Grid Layout
